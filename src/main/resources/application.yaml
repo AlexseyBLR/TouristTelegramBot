@@ -1,0 +1,7 @@
+bot:
+  name: TouristWebAppBot
+  token: 1679017889:AAEsTPiDmLzVU8jKOp9CotmxtaMlM3XJVZQ
+
+botMessage:
+  cityNotFound: Пока такого города нет. Возможно чуть позже появится.
+  multiplyCities: Существует несколько городов с таким названием. Подробнее о каждом по кнопке внизу.
